@@ -35,6 +35,6 @@ Soy **Bryan**, estudiante autodidacta de **Ciberseguridad** enfocado en:
 
 
 <p align="center">
-  <img src="![4dacd28bbe1abd89561aecd661507f54](https://github.com/user-attachments/assets/1bba7ca6-18bb-448a-84b8-03a844d020ed)" width="450">
+  <gif src="![4dacd28bbe1abd89561aecd661507f54](https://github.com/user-attachments/assets/1bba7ca6-18bb-448a-84b8-03a844d020ed)" width="450">
 
 
