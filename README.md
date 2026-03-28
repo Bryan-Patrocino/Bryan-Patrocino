@@ -28,7 +28,6 @@ Soy **Bryan**, estudiante autodidacta de **Ciberseguridad** enfocado en:
  Monitoreo de redes
  
  Análisis de logs y evidencias
- <img src="https://i.pinimg.com/originals/fc/f8/d3/fcf8d352ade303f7070f269d8fd7e33a.gif" align="right" width="250">
 
 <img src="https://i.pinimg.com/originals/2f/bf/ba/2fbfbacef953f5ff48b0c3fdb7ba5fe9.gif" align="right" width="200">
 
