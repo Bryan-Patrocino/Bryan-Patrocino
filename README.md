@@ -34,6 +34,6 @@ Soy **Bryan**, estudiante autodidacta de **Ciberseguridad** enfocado en:
  **My Goal:** Convertirme en especialista en Blue Team & Digital Forensics   
 
 
-<p align="center![4dacd28bbe1abd89561aecd661507f54](https://github.com/user-attachments/assets/1bba7ca6-18bb-448a-84b8-03a844d020ed)" width="450">
+![4dacd28bbe1abd89561aecd661507f54](https://github.com/user-attachments/assets/1bba7ca6-18bb-448a-84b8-03a844d020ed)
 
 
