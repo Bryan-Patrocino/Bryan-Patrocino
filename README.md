@@ -12,17 +12,20 @@
  ## 👋 Hola
 Soy **Bryan**, estudiante autodidacta de **Ciberseguridad** enfocado en:
 
- 🔵 Blue Team (Defensa)
-- 🔍 Informática Forense (DFIR)
-- 🧠 Análisis de amenazas
+ Blue Team
+ Informática Forense (DFIR)
+ 
+ Análisis de amenazas
 
----
 
 ## Mi propósito
 
- Detección de ataques y amenazas  
- Investigación forense digital  
- Monitoreo de redes  
+ Detección de ataques y amenazas
+ 
+ Investigación forense digital 
+ 
+ Monitoreo de redes
+ 
  Análisis de logs y evidencias  
 
  **My Goal:** Convertirme en especialista en Blue Team & Digital Forensics   
