@@ -18,18 +18,15 @@ Soy **Bryan**, estudiante autodidacta de **Ciberseguridad** enfocado en:
 
 ---
 
-## 🎯 Mi propósito
+## Mi propósito
 
-- 🛡️ Detección de ataques y amenazas  
-- 🔎 Investigación forense digital  
-- 🌐 Monitoreo de redes  
-- 📊 Análisis de logs y evidencias  
+ Detección de ataques y amenazas  
+ Investigación forense digital  
+ Monitoreo de redes  
+ Análisis de logs y evidencias  
 
  **My Goal:** Convertirme en especialista en Blue Team & Digital Forensics   
 
-
-
-##  Mentalidad
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Mr._Robot_Logo.png" width="150">
