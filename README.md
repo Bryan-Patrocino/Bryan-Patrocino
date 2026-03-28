@@ -8,28 +8,10 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </p>
 
----
 
-## 🧠 Sobre mí
-- 🎯 Estudiante autodidacta de Cybersecurity  
-- 🔍 Enfocado en Informática Forense (DFIR)  
-- 💻 Aprendiendo Linux, Redes y Hacking Ético  
-- 📍 República Dominicana  
+ 🎯 Estudiante autodidacta de Cybersecurity
+ 
+ 📍  Dominicano  
 
----
 
-## ⚒️ Tecnologías en aprendizaje
-- 🐧 Linux  
-- 🌐 Redes (CCNA)  
-- 🔐 Ciberseguridad (Blue Team & Red Team)  
-- 🧪 Forense Digital  
 
----
-
-## 🚀 Objetivo
-Convertirme en especialista en Informática Forense y Ciberseguridad 🔥  
-
----
-
-## 📫 Contacto
-- ✉️ Email: (pon tu correo aquí)
