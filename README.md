@@ -9,12 +9,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Blue+Team+Student;Digital+Forensics+Learner;Cybersecurity+Enthusiast&center=true&width=500&height=50">
 </p>
 
----
-
-<h3 align="center">🟢 I'm The_White_Hat 🟢</h3>
-
----
-
  ## 👋 Hola
 Soy **Bryan**, estudiante autodidacta de **Ciberseguridad** enfocado en:
 
