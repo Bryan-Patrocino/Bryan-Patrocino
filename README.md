@@ -10,7 +10,7 @@
 </p>
 
  ## 👋 Hola
- <img src="https://i.pinimg.com/originals/2f/bf/ba/2fbfbacef953f5ff48b0c3fdb7ba5fe9.gif" align="right" width="150">
+ 
 Soy **Bryan**, estudiante autodidacta de **Ciberseguridad** enfocado en:
 
  Blue Team
@@ -27,7 +27,9 @@ Soy **Bryan**, estudiante autodidacta de **Ciberseguridad** enfocado en:
  
  Monitoreo de redes
  
- Análisis de logs y evidencias  
+ Análisis de logs y evidencias
+
+  <img src="https://i.pinimg.com/originals/2f/bf/ba/2fbfbacef953f5ff48b0c3fdb7ba5fe9.gif" align="right" width="150">
 
  **My Goal:** Convertirme en especialista en Blue Team & Digital Forensics   
 
