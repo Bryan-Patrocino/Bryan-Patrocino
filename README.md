@@ -33,14 +33,7 @@ Soy **Bryan**, estudiante autodidacta de **Ciberseguridad** enfocado en:
 
  **My Goal:** Convertirme en especialista en Blue Team & Digital Forensics   
 
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Mr._Robot_Logo.png" width="150">
-</p>
-
-<p align="center">
-  “Control is an illusion.”  
-</p>
+<img src="https://i.pinimg.com/originals/2f/bf/ba/2fbfbacef953f5ff48b0c3fdb7ba5fe9.gif" align="right" width="150">
 
 
 
