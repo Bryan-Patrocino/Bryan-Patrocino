@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">👨‍💻 Bryan Patrocino</h1>
 
-<!--
-**Bryan-Patrocino/Bryan-Patrocino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Student;Future+Digital+Forensics+Expert;Self-Taught+Learner&center=true&width=500&height=50">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Sobre mí
+- 🎯 Estudiante autodidacta de Cybersecurity  
+- 🔍 Enfocado en Informática Forense (DFIR)  
+- 💻 Aprendiendo Linux, Redes y Hacking Ético  
+- 📍 República Dominicana  
+
+---
+
+## ⚒️ Tecnologías en aprendizaje
+- 🐧 Linux  
+- 🌐 Redes (CCNA)  
+- 🔐 Ciberseguridad (Blue Team & Red Team)  
+- 🧪 Forense Digital  
+
+---
+
+## 🚀 Objetivo
+Convertirme en especialista en Informática Forense y Ciberseguridad 🔥  
+
+---
+
+## 📫 Contacto
+- ✉️ Email: (pon tu correo aquí)
