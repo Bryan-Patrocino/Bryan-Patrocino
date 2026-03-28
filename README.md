@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Bryan Patrocino</h1>
+<h1 align="center"> Bryan Patrocino</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Student;Future+Digital+Forensics+Expert;Self-Taught+Learner&center=true&width=500&height=50">
